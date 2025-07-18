@@ -3,7 +3,7 @@
 > A modern, responsive portfolio showcasing my journey as a Full Stack Java Developer
 
 ## 🔗 Live Demo
-**[View Portfolio](https://arunneelakantam.github.io)**
+**[View Portfolio](https://arunneelakantam15.github.io/arunneelakantam.github.io/)**
 
 ## 🎯 Overview
 This portfolio represents my skills, projects, and professional journey in web development. Built with clean, modern design principles and featuring an interactive user experience.
